@@ -1,0 +1,7 @@
+      </div>
+    </center>
+    <div class="footer">
+nYume Server 1.0 / Developer: Alexander N Zubakov, 2006
+    </div>
+  </body>
+</html>

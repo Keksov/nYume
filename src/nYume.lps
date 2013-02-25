@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="nYume.pp"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="nYume"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="246"/>
+        <CursorPos X="5" Y="260"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="zserver.pp"/>
+        <UnitName Value="zserver"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="124"/>
+        <CursorPos X="16" Y="156"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="compilers.inc"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="2"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="D:\bin\lazarus\fpc\2.6.0\source\rtl\win\sockets.pp"/>
+        <UnitName Value="Sockets"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="81"/>
+        <CursorPos X="14" Y="114"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="D:\bin\lazarus\fpc\2.6.0\source\rtl\inc\socketsh.inc"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="161"/>
+        <CursorPos X="14" Y="182"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="D:\bin\lazarus\fpc\2.6.0\source\rtl\inc\sockets.inc"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit5>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="D:\bin\lazarus\fpc\2.6.0\source\rtl\inc\sockets.inc"/>
+        <Caret Line="109" Column="1" TopLine="108"/>
+      </Position1>
+      <Position2>
+        <Filename Value="D:\bin\lazarus\fpc\2.6.0\source\rtl\inc\socketsh.inc"/>
+        <Caret Line="186" Column="14" TopLine="160"/>
+      </Position2>
+      <Position3>
+        <Filename Value="D:\bin\lazarus\fpc\2.6.0\source\rtl\inc\socketsh.inc"/>
+        <Caret Line="166" Column="17" TopLine="158"/>
+      </Position3>
+      <Position4>
+        <Filename Value="D:\bin\lazarus\fpc\2.6.0\source\rtl\win\sockets.pp"/>
+        <Caret Line="110" Column="20" TopLine="34"/>
+      </Position4>
+      <Position5>
+        <Filename Value="D:\bin\lazarus\fpc\2.6.0\source\rtl\win\sockets.pp"/>
+        <Caret Line="136" Column="16" TopLine="109"/>
+      </Position5>
+      <Position6>
+        <Filename Value="D:\bin\lazarus\fpc\2.6.0\source\rtl\win\sockets.pp"/>
+        <Caret Line="138" Column="24" TopLine="109"/>
+      </Position6>
+      <Position7>
+        <Filename Value="zserver.pp"/>
+        <Caret Line="73" Column="51" TopLine="53"/>
+      </Position7>
+      <Position8>
+        <Filename Value="zserver.pp"/>
+        <Caret Line="77" Column="26" TopLine="57"/>
+      </Position8>
+      <Position9>
+        <Filename Value="zserver.pp"/>
+        <Caret Line="48" Column="24" TopLine="27"/>
+      </Position9>
+      <Position10>
+        <Filename Value="zserver.pp"/>
+        <Caret Line="49" Column="27" TopLine="27"/>
+      </Position10>
+      <Position11>
+        <Filename Value="zserver.pp"/>
+        <Caret Line="77" Column="26" TopLine="50"/>
+      </Position11>
+      <Position12>
+        <Filename Value="zserver.pp"/>
+        <Caret Line="99" Column="30" TopLine="69"/>
+      </Position12>
+      <Position13>
+        <Filename Value="zserver.pp"/>
+        <Caret Line="83" Column="44" TopLine="63"/>
+      </Position13>
+      <Position14>
+        <Filename Value="D:\bin\lazarus\fpc\2.6.0\source\rtl\inc\socketsh.inc"/>
+        <Caret Line="168" Column="19" TopLine="155"/>
+      </Position14>
+      <Position15>
+        <Filename Value="zserver.pp"/>
+        <Caret Line="112" Column="15" TopLine="92"/>
+      </Position15>
+      <Position16>
+        <Filename Value="zserver.pp"/>
+        <Caret Line="144" Column="25" TopLine="123"/>
+      </Position16>
+      <Position17>
+        <Filename Value="D:\bin\lazarus\fpc\2.6.0\source\rtl\win\sockets.pp"/>
+        <Caret Line="182" Column="14" TopLine="154"/>
+      </Position17>
+      <Position18>
+        <Filename Value="D:\bin\lazarus\fpc\2.6.0\source\rtl\win\sockets.pp"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position18>
+      <Position19>
+        <Filename Value="D:\bin\lazarus\fpc\2.6.0\source\rtl\win\sockets.pp"/>
+        <Caret Line="45" Column="29" TopLine="12"/>
+      </Position19>
+      <Position20>
+        <Filename Value="D:\bin\lazarus\fpc\2.6.0\source\rtl\win\sockets.pp"/>
+        <Caret Line="62" Column="18" TopLine="29"/>
+      </Position20>
+      <Position21>
+        <Filename Value="D:\bin\lazarus\fpc\2.6.0\source\rtl\win\sockets.pp"/>
+        <Caret Line="76" Column="16" TopLine="49"/>
+      </Position21>
+      <Position22>
+        <Filename Value="D:\bin\lazarus\fpc\2.6.0\source\rtl\win\sockets.pp"/>
+        <Caret Line="78" Column="24" TopLine="49"/>
+      </Position22>
+      <Position23>
+        <Filename Value="D:\bin\lazarus\fpc\2.6.0\source\rtl\win\sockets.pp"/>
+        <Caret Line="81" Column="16" TopLine="49"/>
+      </Position23>
+      <Position24>
+        <Filename Value="D:\bin\lazarus\fpc\2.6.0\source\rtl\win\sockets.pp"/>
+        <Caret Line="84" Column="26" TopLine="51"/>
+      </Position24>
+      <Position25>
+        <Filename Value="zserver.pp"/>
+        <Caret Line="135" Column="18" TopLine="120"/>
+      </Position25>
+      <Position26>
+        <Filename Value="zserver.pp"/>
+        <Caret Line="52" Column="17" TopLine="32"/>
+      </Position26>
+      <Position27>
+        <Filename Value="zserver.pp"/>
+        <Caret Line="143" Column="34" TopLine="124"/>
+      </Position27>
+      <Position28>
+        <Filename Value="nYume.pp"/>
+        <Caret Line="6" Column="12" TopLine="1"/>
+      </Position28>
+      <Position29>
+        <Filename Value="nYume.pp"/>
+        <Caret Line="258" Column="16" TopLine="238"/>
+      </Position29>
+      <Position30>
+        <Filename Value="nYume.pp"/>
+        <Caret Line="10" Column="4" TopLine="67"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
